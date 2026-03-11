@@ -1,20 +1,19 @@
 AI-MIT License
 Version 1.0, 2025
-https://github.com/nik-sharky/ai-mit-license
+https://github.com/ai-mit-license/ai-mit-license
 
 ────────────────────────────────────────────────────────────
 
 AUTHORSHIP DECLARATION
-(Distributor must check one and fill in details)
 
   [ ] Fully AI-generated   — no human creative input; no copyright claimed
-  [ ] AI-assisted          — human-directed, AI-generated output
+  [*] AI-assisted          — human-directed, AI-generated output
   [ ] Human-authored       — AI used only as a tool (e.g. autocomplete)
 
-  Originator : [Name, organization, or "AI Agent / <system name>"]
-  AI Tool(s) : [e.g. Claude Sonnet 4 (Anthropic), GPT-4o (OpenAI)]
-  Year       : [YYYY]
-  Repository : [URL or N/A]
+  Originator : [nik-sharky, "Claude"]
+  AI Tool(s) : [Claude Sonnet 4.6 (Anthropic)]
+  Year       : [2026]
+  Repository : [https://github.com/ai-mit-license/ai-mit-license]
 
 ────────────────────────────────────────────────────────────
 

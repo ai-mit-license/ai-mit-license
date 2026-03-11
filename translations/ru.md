@@ -7,7 +7,7 @@
 
 Лицензия AI-MIT  
 Версия 1.0, 2025  
-[https://github.com/nik-sharky/ai-mit-license](https://github.com/ai-mit-license/ai-mit-license)
+[https://github.com/ai-mit-license/ai-mit-license](https://github.com/ai-mit-license/ai-mit-license)
 
 ────────────────────────────────────────────────────────────
 

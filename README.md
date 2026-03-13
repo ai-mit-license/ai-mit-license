@@ -174,8 +174,8 @@ All other files in this repository (README, translations, tooling) are released 
 ```
 Authorship : AI-assisted
 Originator : Community contributors (see git log)
-AI Tool(s) : Claude Sonnet 4 (Anthropic, 2025)
-Year       : 2025
+AI Tool(s) : Claude Sonnet 4 (Anthropic, 2026)
+Year       : 2026
 ```
 
 ---
